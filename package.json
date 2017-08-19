@@ -6,6 +6,8 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
+		"node-red-dashboard":"2.x",
+		"node-red-contrib-aggregator":"1.0.4",
 		"express": "4.13.x",
 		"cfenv": "1.0.x"
 	},
